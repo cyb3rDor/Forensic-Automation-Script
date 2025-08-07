@@ -28,7 +28,7 @@ All results are saved in a structured directory and compressed into a final ZIP 
 - Bulk Extractor
 - Wireshark (for `.pcap` files)
 
-> ⚠️ Note: The script assumes that all tools are installed and available in `$PATH`.
+> ⚠️ Note: The script assumes that all tools are installed and available in `$PATH make sure download all files put them in the same directory and than run the script from the path.
 
 ## 🚀 Usage
 
